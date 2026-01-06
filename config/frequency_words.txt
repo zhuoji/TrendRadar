@@ -17,16 +17,6 @@
 
 /字节|bytedance|张一鸣/i => 字节跳动
 
-/特斯拉|马斯克/ => 特斯拉
-
-/\bAMD\b/i => AMD
-
-/谷歌|\bgoogle\b|\bgemini\b|\bdeepMind\b/i => 谷歌
-
-/\bchatgpt\b|\bopenai\b|\bsora\b/i => OpenAI
-
-/\bclaude\b|Anthropic/i => Claude
-
 /\biphone\b|\bipad\b|\bmac\b|\bios\b/i => 苹果产品
 
 /(?<![a-zA-Z])ai(?![a-zA-Z])/i => AI 相关
